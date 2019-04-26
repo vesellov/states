@@ -1,3 +1,5 @@
+![Nuxt CMS](https://bitdust.io/assets/img/og/og-image.jpg)
+
 # BitDust States
 
 BitDust project is developed on the principles of [automata-based programming](https://en.wikipedia.org/wiki/automata-based_programming) and [open project documentation movement](http://is.ifmo.ru/english/).
