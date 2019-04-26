@@ -1,4 +1,4 @@
-![Nuxt CMS](https://bitdust.io/assets/img/og/og-image.jpg)
+![Nuxt CMS](https://github.com/bitdust-io/states/blob/master/storage/backup.png)
 
 # BitDust States
 
